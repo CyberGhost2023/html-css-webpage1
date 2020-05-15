@@ -1,0 +1,30 @@
+body{
+  background-color: #00b4d8;
+  text-align: center ;
+  color:white;
+}
+#back{
+  background-color: #163250;
+  padding: 0.01px 370px ;
+  margin:-2% 5% 2% 5%;
+}
+h1{
+  padding:0.1px 10px;
+}
+.downspace{
+    margin-bottom: 70px;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+form{
+	font-size:20px;
+}
+#subm{
+  text-align: center;
+  padding: 15px 10px;
+  background-color: #f4a261;
+  border-radius: 10px;
+  border: 1px solid white;
+
+}
